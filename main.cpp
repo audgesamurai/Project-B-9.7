@@ -1,3 +1,13 @@
+// ============================================================
+// Project: Programming Project 9.22.7 - CashRegister Redesign
+// Description: Reimplements the CashRegister class to track 
+//              total price in integer cents.
+//              The public interface remains unchanged to avoid 
+//              roundoff errors in financial calculations.
+// Coder: Audrey Tapia
+// Tester: Heily
+// Team Members: Audrey, Giannfranco, Ashley, Heliy
+// ============================================================
 
 #include <iostream>
 #include <vector>
